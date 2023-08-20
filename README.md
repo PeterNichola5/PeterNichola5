@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! My name is Peter. Im currently learning full stack developement with the help of Tech Elevator.
 
 <!--
 **PeterNichola5/PeterNichola5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
