@@ -1,4 +1,4 @@
-### Hi! My name is Peter. Im currently learning full stack developement with the help of Tech Elevator.
+### Hi! My name is Peter. I'm a Fullstack Developer looking for work. Feel free to check out some of my projects!
 
 <!--
 **PeterNichola5/PeterNichola5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
